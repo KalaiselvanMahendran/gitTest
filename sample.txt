@@ -2,4 +2,4 @@ Master commit
 developerOne Commit
 developerOne commit two
 Master commit two
-DeveloperOne commit three
+DeveloperOne commit three 
